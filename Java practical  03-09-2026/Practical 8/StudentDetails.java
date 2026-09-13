@@ -1,6 +1,6 @@
 public class StudentDetails {
     static String collegeName = "SEEMANTA ENGINEERING COLLEGE";
-    String studentName = "Dhanish kumar";
+    String studentName = "Krishna Sharma";
 
     void subjectMarks(int math, int chemistry, int physics){
         int totalMarks = math + chemistry + physics;
@@ -11,6 +11,6 @@ public class StudentDetails {
 
     public static void main(String[] args) {
         StudentDetails marks = new StudentDetails();
-        marks.subjectMarks(76,85,68);
+        marks.subjectMarks(76,75,68);
     }
 }
