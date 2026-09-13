@@ -1,6 +1,6 @@
 public class Condition {
-    String studentName = "Dhanish Kumar";
-    int rollNo = 56;
+    String studentName = "Krishna Sharma";
+    int rollNo = 48;
     static String collegeName = "SEEMANTA ENGINEERING COLLEGE";
 
     void subjectMarks(int sub1, int sub2, int sub3){
