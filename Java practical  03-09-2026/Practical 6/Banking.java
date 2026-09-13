@@ -1,6 +1,6 @@
 public class Banking {
     static String bankName = "Bank of India";
-    String accountHolder = "Dhanish kumar";
+    String accountHolder = "Krishna Sharma";
     double balance = 20000;
 
     void accountDetails() {
