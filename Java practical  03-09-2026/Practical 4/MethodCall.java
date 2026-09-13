@@ -9,6 +9,6 @@ public class MethodCall {
 
     public static void main(String[] args) {
         MethodCall student = new MethodCall();
-        student.displayStudent("Dhanish Kumar", 24, 98.6);
+        student.displayStudent("Krishna Sharma", 22, 92.4);
     }
 }
