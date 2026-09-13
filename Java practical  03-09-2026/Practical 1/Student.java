@@ -1,5 +1,5 @@
 public class Student {
-    String name = "Dhanish kumar";
+    String name = "Krishna Sharma";
     int rollNo = 56;
     double marks = 99.9;
     public static void main(String[] args) {
